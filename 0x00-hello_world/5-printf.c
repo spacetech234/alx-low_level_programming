@@ -1,4 +1,3 @@
-#!/bin/bash
 #incluce <stdio.h>
 
 /**
